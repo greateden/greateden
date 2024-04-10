@@ -6,12 +6,18 @@
   https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
 -->
 
-# Hello!
+# Bonjour !
 
 ### I'm Eden
 
 ## 🌱 About me
-Currently studying French, Computer Science at the University of Otago. My interests....
+🏫 Double majoring in French and Computer Science at the University of Otago, New Zealand, with a minor in German from the University of Canterbury. Currently an undergraduate student.
+💼 Part-time teaching assistant for COMP161 and STAT110 at the Disability Information & Support Center (DI&S), University of Otago.
+❤️ Childhood interests led me to choose Computer Science; my father's influence sparked my love for learning languages.
+✨ Diverse hobbies accumulated over time into various skills: programming, photography, graphic design, and audio/video editing.
+💻 Started programming at the age of 10.
+🥸 INFJ. A determined achiever of plans. Rich inner world (low emotional intelligence: too much inner drama).
+🇨🇭 Still continuously moving forward on the path of chasing dreams...
 
 ## 🎓 Goals 
 To earn software engineer dollars 🫡
@@ -24,12 +30,12 @@ Eating hella food
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
+   <!--![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
