@@ -10,7 +10,7 @@
 
 ### I'm Eden
 
-## 🌱 About me
+## About me
 🏫 Double majoring in French and Computer Science at the University of Otago, New Zealand, with a minor in German from the University of Canterbury. Currently an undergraduate student.
 
 💼 Part-time teaching assistant for COMP161 and STAT110 at the Disability Information & Support Center (DI&S), University of Otago.
@@ -24,6 +24,8 @@
 🥸 INFJ. A determined achiever of plans. Rich inner world (low emotional intelligence: too much inner drama).
 
 🇨🇭 Still continuously moving forward on the path of chasing dreams...
+
+unchanged below
 
 ## 🎓 Goals 
 To earn software engineer dollars 🫡
