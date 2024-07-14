@@ -13,7 +13,7 @@
 ## About me
 🏫 Double majoring in French and Computer Science at the University of Otago, with a minor in German from the University of Canterbury. Currently an undergraduate student.
 
-💼 Part-time teaching assistant for COMP161 and STAT110 at the Disability Information & Support (DI&S), University of Otago.
+💼 Part-time demonstrator for COMP162, and part time tutor for STAT115 at the Disability Information & Support (DI&S), University of Otago.
 
 ❤️ Childhood interests led me to choose Computer Science; my father's influence sparked my love for learning languages.
 
