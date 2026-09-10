@@ -11,21 +11,25 @@
 ### I'm Eden
 
 ## About me
-🏫 Double majoring in French and Computer Science at the University of Otago, with a minor in German from the University of Canterbury. Currently an undergraduate student.
+🏫 Currently doing an MSc in Computational Linguistics & Language Technology at the University of Zürich, after graduating from the University of Otago with a BASc in Computer Science and French + a minor in German.
 
-💼 Part-time demonstrator for COMP162, and part time tutor for STAT115 at the Disability Information & Support (DI&S), University of Otago.
+I’m also planning to study Multilingualism at the University of Fribourg, because apparently studying languages, studying computers and then studying what happens when languages and computers collide still wasn’t enough!
 
-❤️ Childhood interests led me to choose Computer Science; my father's influence sparked my love for learning languages.
+💻 Started programming when I was 10. I have since accumulated an unreasonable amount of Python, Java, JavaScript, Linux, NLP, LLMs, multilingual embeddings, datasets, experiments and opinions about technology.
 
-✨ Diverse hobbies accumulated over time into various skills: programming, photography, graphic design, audio/video editing, and Guqin playing (a traditional Chinese instrument).
+👨‍🏫 Before Zürich, I spent around 2.5 years teaching Computer Science at Otago: programming, algorithms, software development, databases, web technologies, networks and occasionally the ancient art of figuring out why someone’s code works on their laptop but nowhere else.
 
-🤗 Other hobbies: vinyl collection, hiking, writing, daydreaming, etc.
+🗣️ I speak Chinese and English, plus French and German to varying degrees of confidence, grammatical accuracy and willingness to embarrass myself.
 
-💻 Started programming at the age of 10.
+📷 I’m also a photographer, occasional graphic designer, audio/video editor, vinyl collector, hiker, Guqin player, film lover, compulsive train traveller and professional daydreamer.
 
-🥸 INFJ. A determined achiever of plans. Rich inner world (low EQ: too much inner drama 🫠).
+✍️ I write poetry too! Mostly on Instagram. Sometimes about people, cities, memory, love, language, coffee, or whatever happened to emotionally inconvenience me that week.
 
-🇨🇭 Still continuously moving forward on the path of chasing dreams...
+My research interests tend to live somewhere around language, culture, multilingualism and AI. I’m especially interested in the places where supposedly objective technical systems suddenly become very human, very cultural and occasionally very weird.
+
+🥸 INFJ, if that information is useful to anyone. I make excessive plans, usually execute them and possess an inner monologue with a production budget it absolutely does not deserve.
+
+🇨🇭 Currently in Zürich, trying to become a researcher without becoming unbearably academic in the process.
 
 <!-- ## 🎓 Goals -->
 
